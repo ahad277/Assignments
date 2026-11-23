@@ -1,0 +1,101 @@
+student_id,gender,age_group,prefers_tea,tea_type,snack_choice,cups_per_day
+S001,Male,21-23,No,Black,Samosa,2
+S002,Male,21-23,No,Green,Samosa,3
+S003,Male,18-20,No,Doodh Patti,Biscuit,0
+S004,Male,21-23,Yes,,Samosa,1
+S005,Male,18-20,Yes,Green,Samosa,4
+S006,Female,18-20,Yes,Black,Chips,5
+S007,Male,24-26,No,Green,Chips,4
+S008,Male,18-20,Yes,Black,Chips,2
+S009,Female,18-20,No,Green,Biscuit,4
+S010,Female,21-23,Yes,,Samosa,5
+S011,Female,21-23,No,,Chips,0
+S012,Male,24-26,Yes,Green,Chips,3
+S013,Female,18-20,Yes,Green,Biscuit,1
+S014,Female,18-20,Yes,Green,Samosa,5
+S015,Female,21-23,No,Black,Biscuit,3
+S016,Male,21-23,Yes,,Biscuit,0
+S017,Female,21-23,No,,Chips,2
+S018,Male,18-20,No,Black,Samosa,5
+S019,Female,21-23,No,Green,Chips,0
+S020,Male,18-20,No,,Samosa,1
+S021,Female,21-23,Yes,Doodh Patti,Samosa,5
+S022,Female,18-20,Yes,Black,Samosa,4
+S023,Male,21-23,No,Doodh Patti,Samosa,3
+S024,Male,21-23,Yes,Green,Samosa,5
+S025,Male,21-23,Yes,Green,Samosa,2
+S026,Male,24-26,Yes,Green,Biscuit,1
+S027,Male,24-26,Yes,Black,Chips,0
+S028,Female,24-26,No,Green,Samosa,2
+S029,Male,24-26,Yes,,Biscuit,5
+S030,Male,21-23,No,,Chips,4
+S031,Female,21-23,Yes,Black,Samosa,4
+S032,Female,24-26,No,,Samosa,1
+S033,Female,18-20,Yes,Green,Samosa,1
+S034,Female,18-20,Yes,,Chips,4
+S035,Female,24-26,No,Doodh Patti,Samosa,5
+S036,Male,18-20,Yes,Green,Samosa,5
+S037,Female,18-20,Yes,Doodh Patti,Biscuit,4
+S038,Female,24-26,Yes,Black,Biscuit,2
+S039,Male,18-20,Yes,Black,Samosa,4
+S040,Male,21-23,No,,Samosa,5
+S041,Male,24-26,No,Doodh Patti,Chips,3
+S042,Male,18-20,Yes,Green,Samosa,1
+S043,Female,24-26,Yes,Black,Samosa,5
+S044,Male,24-26,Yes,Green,Samosa,3
+S045,Male,24-26,Yes,Green,Biscuit,3
+S046,Male,18-20,No,Green,Biscuit,5
+S047,Male,18-20,No,Green,Chips,4
+S048,Male,21-23,Yes,Green,Samosa,3
+S049,Male,24-26,Yes,,Biscuit,5
+S050,Female,18-20,No,Doodh Patti,Chips,2
+S051,Female,18-20,No,,Chips,5
+S052,Female,24-26,No,Black,Chips,1
+S053,Female,24-26,Yes,Doodh Patti,Chips,3
+S054,Male,18-20,No,Black,Chips,5
+S055,Male,18-20,No,Doodh Patti,Chips,5
+S056,Male,21-23,Yes,,Chips,2
+S057,Female,21-23,No,Doodh Patti,Biscuit,2
+S058,Female,18-20,Yes,Green,Biscuit,1
+S059,Male,24-26,Yes,Doodh Patti,Biscuit,3
+S060,Female,21-23,Yes,Black,Chips,5
+S061,Female,21-23,No,Black,Biscuit,0
+S062,Female,21-23,No,Doodh Patti,Biscuit,2
+S063,Female,18-20,Yes,Green,Biscuit,0
+S064,Female,24-26,No,Green,Samosa,3
+S065,Female,18-20,No,Green,Samosa,4
+S066,Male,18-20,No,Black,Biscuit,5
+S067,Female,18-20,Yes,Doodh Patti,Biscuit,0
+S068,Female,24-26,No,,Chips,0
+S069,Male,21-23,Yes,,Samosa,3
+S070,Male,18-20,Yes,,Samosa,1
+S071,Male,24-26,No,Green,Biscuit,5
+S072,Female,24-26,Yes,Doodh Patti,Samosa,3
+S073,Male,24-26,No,Green,Samosa,2
+S074,Male,18-20,No,Doodh Patti,Biscuit,4
+S075,Male,21-23,Yes,Black,Biscuit,2
+S076,Male,18-20,No,Doodh Patti,Chips,5
+S077,Female,18-20,No,Green,Samosa,3
+S078,Female,24-26,Yes,,Chips,4
+S079,Male,18-20,Yes,Black,Chips,3
+S080,Male,21-23,No,,Biscuit,3
+S081,Female,21-23,No,,Samosa,2
+S082,Male,21-23,Yes,Doodh Patti,Chips,4
+S083,Male,18-20,Yes,Doodh Patti,Chips,4
+S084,Male,21-23,No,,Chips,0
+S085,Female,18-20,No,Doodh Patti,Chips,0
+S086,Female,24-26,No,Doodh Patti,Samosa,5
+S087,Male,18-20,No,Black,Samosa,3
+S088,Male,24-26,Yes,Black,Biscuit,3
+S089,Male,24-26,Yes,Green,Biscuit,0
+S090,Male,18-20,No,Doodh Patti,Biscuit,3
+S091,Male,24-26,No,Doodh Patti,Samosa,1
+S092,Male,24-26,No,Doodh Patti,Samosa,3
+S093,Female,24-26,Yes,Green,Samosa,1
+S094,Female,21-23,Yes,Doodh Patti,Chips,3
+S095,Female,21-23,No,Black,Samosa,0
+S096,Male,18-20,Yes,,Biscuit,4
+S097,Female,18-20,No,Doodh Patti,Biscuit,3
+S098,Female,18-20,Yes,,Chips,2
+S099,Female,21-23,Yes,Black,Chips,4
+S100,Female,21-23,No,Black,Samosa,2
